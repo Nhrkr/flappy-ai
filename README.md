@@ -1,5 +1,11 @@
 # To-do
 
+Research existing approaches
+
+Decide which approach(s) to take
+
+Start coding
+
 # Links
 
 https://github.com/SarvagyaVaish/FlappyBirdRL
