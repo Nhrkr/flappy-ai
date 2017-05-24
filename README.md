@@ -4,6 +4,7 @@
 
 https://github.com/SarvagyaVaish/FlappyBirdRL
 Uses reinforcement learning
+
 https://github.com/chncyhn/flappybird-qlearning-bot
 Uses Q-learning, uses sarvaigyavaish's base model, sourabhv's pygame Flappy Bird
 
