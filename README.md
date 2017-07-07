@@ -8,11 +8,14 @@ Choose Flappy Bird engine to use
 
 1. pygame version https://github.com/sourabhv/FlapPyBird
 
-2. MelonJS https://github.com/ellisonleao/clumsy-bird
+~~2. MelonJS https://github.com/ellisonleao/clumsy-bird
 
+will have to install node and grunt for it
 ~3. ANDEngine (Java) https://github.com/deano2390/OpenFlappyBird~
 
-4. HTML5 https://github.com/nebez/floppybird
+~~4. HTML5 https://github.com/nebez/floppybird
+
+based on html canvas, might have to use js for later traning or any changes
 
 Start coding
 
