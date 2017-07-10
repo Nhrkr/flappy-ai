@@ -24,12 +24,15 @@ Start coding
 
 https://github.com/SarvagyaVaish/FlappyBirdRL
 Uses ~reinforcement~ Q-learning
+Training took 6-7 hours, doesnt take "good" inout from users, dont know how the step size value for deterministic state was taken ( he used 0.7), code in js, used another game engine
 
 https://pastebin.com/ZZmSNaHX
 Seth Bling's MarI/O Code
+Didnt understand a thing, code for super mario 
 
 http://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf
 NEAT paper (used in Seth Bling's implementation)
+Evolving Neural Networks through Augmenting Topologies
 
 https://github.com/mdibaiee/flappy-es
 Uses evolution strategies, not sure which flappy bird engine used
